@@ -19,7 +19,6 @@ The project is organized into the following Python files:
 
 **3. Dependencies:**
 
-```markdown
 ## Dependencies
 
 This project requires the following Python libraries:
@@ -31,18 +30,18 @@ This project requires the following Python libraries:
 
 **4. Running the App:**
 
-```markdown
 ## Running Instructions
 
 1. Install the required dependencies:
    ```bash
-   pip install streamlit dotenv youtube-transcript-api google-generativeai
+      pip install streamlit dotenv youtube-transcript-api google-generativeai
    ```
 2. Run the Streamlit app:
    ```bash
     streamlit run app.py
-    ```
+   ```
 3. Access the app in your web browser at `http://localhost:8501`.
+
 
 **Explanation:**
 
